@@ -8,38 +8,39 @@ KST = pytz.timezone("Asia/Seoul")
 
 RSS_SOURCES = {
     "world": [
-        {"name": "Reuters World", "url": "https://feeds.reuters.com/reuters/worldNews", "lang": "en"},
-        {"name": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml", "lang": "en"},
-        {"name": "AP News", "url": "https://rsshub.app/apnews/topics/apf-topnews", "lang": "en"},
-        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml", "lang": "en"},
+        {"name": "Reuters", "url": "https://feeds.reuters.com/reuters/worldNews"},
+        {"name": "BBC World", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
+        {"name": "AP News", "url": "https://rsshub.app/apnews/topics/apf-topnews"},
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
     ],
     "us_politics": [
-        {"name": "Reuters Politics", "url": "https://feeds.reuters.com/reuters/politicsNews", "lang": "en"},
-        {"name": "BBC US & Canada", "url": "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml", "lang": "en"},
-        {"name": "NPR Politics", "url": "https://feeds.npr.org/1014/rss.xml", "lang": "en"},
+        {"name": "Reuters", "url": "https://feeds.reuters.com/reuters/politicsNews"},
+        {"name": "BBC US", "url": "http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"},
+        {"name": "NPR Politics", "url": "https://feeds.npr.org/1014/rss.xml"},
     ],
     "tech": [
-        {"name": "Reuters Tech", "url": "https://feeds.reuters.com/reuters/technologyNews", "lang": "en"},
-        {"name": "BBC Technology", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml", "lang": "en"},
-        {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "lang": "en"},
-        {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "lang": "en"},
-        {"name": "Wired", "url": "https://www.wired.com/feed/rss", "lang": "en"},
+        {"name": "Reuters", "url": "https://feeds.reuters.com/reuters/technologyNews"},
+        {"name": "BBC Tech", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"},
+        {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml"},
+        {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
+        {"name": "Wired", "url": "https://www.wired.com/feed/rss"},
     ],
     "finance": [
-        {"name": "Reuters Finance", "url": "https://feeds.reuters.com/reuters/businessNews", "lang": "en"},
-        {"name": "BBC Business", "url": "http://feeds.bbci.co.uk/news/business/rss.xml", "lang": "en"},
-        {"name": "Bloomberg Markets", "url": "https://feeds.bloomberg.com/markets/news.rss", "lang": "en"},
-        {"name": "Financial Times", "url": "https://www.ft.com/rss/home", "lang": "en"},
+        {"name": "Reuters", "url": "https://feeds.reuters.com/reuters/businessNews"},
+        {"name": "BBC Business", "url": "http://feeds.bbci.co.uk/news/business/rss.xml"},
+        {"name": "Bloomberg", "url": "https://feeds.bloomberg.com/markets/news.rss"},
+        {"name": "Financial Times", "url": "https://www.ft.com/rss/home"},
     ],
     "korea": [
-        {"name": "Yonhap English", "url": "https://en.yna.co.kr/RSS/news.xml", "lang": "en"},
-        {"name": "Korea Herald", "url": "http://www.koreaherald.com/rss/herald.xml", "lang": "en"},
-        {"name": "Korea JoongAng Daily", "url": "https://koreajoongangdaily.joins.com/rss/feed.xml", "lang": "en"},
+        {"name": "Korea Herald", "url": "http://www.koreaherald.com/rss/herald.xml"},
+        {"name": "Korea JoongAng Daily", "url": "https://koreajoongangdaily.joins.com/rss/feed.xml"},
+        {"name": "Reuters Asia", "url": "https://feeds.reuters.com/reuters/AsianCountriesNews"},
+        {"name": "BBC Asia", "url": "http://feeds.bbci.co.uk/news/world/asia/rss.xml"},
     ],
 }
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
 

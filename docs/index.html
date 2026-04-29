@@ -13,12 +13,16 @@
         <span class="logo">📰</span>
         <div>
           <h1>글로벌 뉴스 다이제스트</h1>
-          <p class="header-sub">Reuters · BBC · AP · Bloomberg · Yonhap</p>
+          <p class="header-sub">Reuters · BBC · AP · Bloomberg · Korea Herald</p>
         </div>
       </div>
-      <div id="meta-bar" class="meta-bar">
-        <span id="generated-at"></span>
-        <span id="weekday-label"></span>
+      <div class="header-right">
+        <div id="meta-bar" class="meta-bar">
+          <span id="generated-at"></span>
+          <span id="weekday-label"></span>
+        </div>
+        <!-- 날짜 선택기 -->
+        <div class="date-nav" id="date-nav"></div>
       </div>
     </div>
   </header>
@@ -34,8 +38,15 @@
     </div>
 
     <div id="digest-root" class="hidden">
+      <!-- 키워드 필터 -->
       <section class="keywords-bar" id="keywords-section"></section>
+      <div id="filter-notice" class="filter-notice hidden">
+        <span id="filter-label"></span>
+        <button onclick="clearFilter()">✕ 필터 해제</button>
+      </div>
+
       <div id="categories-grid"></div>
+
       <section class="daily-summary-section" id="summary-section">
         <h2>📋 오늘의 종합 요약</h2>
         <p id="summary-text"></p>
@@ -44,7 +55,7 @@
   </main>
 
   <footer>
-    <p>Powered by Groq AI (Llama 3.3 70B) · 뉴스 출처: Reuters, BBC, AP, Bloomberg, Yonhap, TechCrunch 외</p>
+    <p>Powered by Groq AI (Llama 3.3 70B) · 뉴스 출처: Reuters, BBC, AP, Bloomberg, Korea Herald 외</p>
   </footer>
 
   <script src="script.js"></script>

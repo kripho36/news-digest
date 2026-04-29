@@ -7,30 +7,52 @@ const CATEGORY_ICONS = {
   tech: "💻",
 };
 
+let currentData = null;
+let activeKeyword = null;
+
 function renderStars(starStr) {
   return starStr.split("").map(ch =>
     ch === "★" ? `<span>★</span>` : `<span class="star-off">☆</span>`
   ).join("");
 }
 
-function renderNews(data) {
-  document.getElementById("generated-at").textContent = "⏱ " + data.generated_at;
-  document.getElementById("weekday-label").textContent = "📅 " + data.weekday;
+// ── 키워드 필터 ──
+function setKeywordFilter(keyword) {
+  activeKeyword = keyword;
+  document.querySelectorAll(".keyword-tag").forEach(el => {
+    el.classList.toggle("active", el.dataset.keyword === keyword);
+  });
 
-  // 키워드
-  const kwSection = document.getElementById("keywords-section");
-  if (data.key_keywords && data.key_keywords.length) {
-    kwSection.innerHTML = data.key_keywords.map(k =>
-      `<span class="keyword-tag">${k}</span>`
-    ).join("");
-  }
+  const notice = document.getElementById("filter-notice");
+  const label = document.getElementById("filter-label");
+  notice.classList.remove("hidden");
+  label.textContent = `"${keyword}" 관련 뉴스만 표시 중`;
 
-  // 카테고리 그리드
+  renderCategories(currentData, keyword);
+}
+
+function clearFilter() {
+  activeKeyword = null;
+  document.querySelectorAll(".keyword-tag").forEach(el => el.classList.remove("active"));
+  document.getElementById("filter-notice").classList.add("hidden");
+  renderCategories(currentData, null);
+}
+
+function itemMatchesKeyword(item, keyword) {
+  const kw = keyword.toLowerCase();
+  return (item.title_ko || "").toLowerCase().includes(kw) ||
+         (item.summary_ko || "").toLowerCase().includes(kw) ||
+         (item.source || "").toLowerCase().includes(kw);
+}
+
+// ── 카테고리 렌더링 ──
+function renderCategories(data, keyword) {
   const grid = document.getElementById("categories-grid");
   grid.innerHTML = "";
 
   for (const cat of CATEGORY_ORDER) {
-    const items = data.categories[cat] || [];
+    let items = data.categories[cat] || [];
+    if (keyword) items = items.filter(item => itemMatchesKeyword(item, keyword));
     if (!items.length) continue;
 
     const icon = CATEGORY_ICONS[cat] || "📌";
@@ -64,7 +86,76 @@ function renderNews(data) {
     grid.appendChild(section);
   }
 
-  // 종합 요약
+  if (!grid.innerHTML) {
+    grid.innerHTML = `<div class="no-results">검색 결과가 없습니다.</div>`;
+  }
+}
+
+// ── 날짜 네비게이션 ──
+async function loadDates() {
+  try {
+    const res = await fetch("dates.json?t=" + Date.now());
+    if (!res.ok) return [];
+    return await res.json();
+  } catch {
+    return [];
+  }
+}
+
+function renderDateNav(dates, currentDate) {
+  const nav = document.getElementById("date-nav");
+  if (!dates.length) return;
+
+  nav.innerHTML = `
+    <select id="date-select" onchange="loadDateDigest(this.value)">
+      ${dates.map(d => `
+        <option value="${d}" ${d === currentDate ? "selected" : ""}>
+          ${formatDateLabel(d)}
+        </option>
+      `).join("")}
+    </select>
+  `;
+}
+
+function formatDateLabel(dateStr) {
+  const [y, m, d] = dateStr.split("-");
+  const date = new Date(dateStr);
+  const days = ["일", "월", "화", "수", "목", "금", "토"];
+  return `${m}/${d} (${days[date.getDay()]})`;
+}
+
+async function loadDateDigest(dateStr) {
+  try {
+    const res = await fetch(`history/${dateStr}.json?t=` + Date.now());
+    if (!res.ok) throw new Error();
+    const data = await res.json();
+    renderNews(data);
+  } catch {
+    alert("해당 날짜의 데이터를 불러오지 못했습니다.");
+  }
+}
+
+// ── 메인 렌더링 ──
+function renderNews(data) {
+  currentData = data;
+  activeKeyword = null;
+
+  document.getElementById("generated-at").textContent = "⏱ " + data.generated_at;
+  document.getElementById("weekday-label").textContent = "📅 " + data.weekday;
+
+  // 키워드 태그 (클릭 필터)
+  const kwSection = document.getElementById("keywords-section");
+  if (data.key_keywords && data.key_keywords.length) {
+    kwSection.innerHTML = data.key_keywords.map(k => `
+      <span class="keyword-tag" data-keyword="${k}" onclick="setKeywordFilter('${k}')">
+        ${k}
+      </span>
+    `).join("");
+  }
+
+  document.getElementById("filter-notice").classList.add("hidden");
+  renderCategories(data, null);
+
   if (data.daily_summary) {
     document.getElementById("summary-text").textContent = data.daily_summary;
     document.getElementById("summary-section").classList.remove("hidden");
@@ -74,13 +165,20 @@ function renderNews(data) {
   document.getElementById("loading-screen").classList.add("hidden");
 }
 
+// ── 초기 로딩 ──
 async function load() {
   try {
-    const res = await fetch("digest.json?t=" + Date.now());
-    if (!res.ok) throw new Error("not found");
-    const data = await res.json();
+    const [digestRes, dates] = await Promise.all([
+      fetch("digest.json?t=" + Date.now()),
+      loadDates()
+    ]);
+
+    if (!digestRes.ok) throw new Error();
+    const data = await digestRes.json();
+
+    renderDateNav(dates, data.date_label);
     renderNews(data);
-  } catch (e) {
+  } catch {
     document.getElementById("loading-screen").classList.add("hidden");
     document.getElementById("error-screen").classList.remove("hidden");
   }
