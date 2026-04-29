@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>글로벌 뉴스 다이제스트</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="header-title">
+        <span class="logo">📰</span>
+        <div>
+          <h1>글로벌 뉴스 다이제스트</h1>
+          <p class="header-sub">Reuters · BBC · AP · Bloomberg · Yonhap</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <div id="status-badge" class="badge badge-idle">대기 중</div>
+        <button id="refresh-btn" onclick="triggerRefresh()">🔄 뉴스 업데이트</button>
+      </div>
+    </div>
+    <div id="meta-bar" class="meta-bar hidden">
+      <span id="generated-at"></span>
+      <span id="weekday-label"></span>
+    </div>
+  </header>
+
+  <main id="app">
+    <div id="loading-screen" class="loading-screen">
+      <div class="spinner"></div>
+      <p>뉴스를 불러오는 중입니다...</p>
+    </div>
+
+    <div id="empty-screen" class="empty-screen hidden">
+      <p>📭 아직 뉴스 데이터가 없습니다.</p>
+      <button onclick="triggerRefresh()">🔄 지금 수집 시작</button>
+    </div>
+
+    <div id="digest-root" class="hidden">
+      <!-- 키워드 태그 -->
+      <section class="keywords-bar" id="keywords-section"></section>
+
+      <!-- 카테고리별 뉴스 -->
+      <div id="categories-grid"></div>
+
+      <!-- 오늘의 요약 -->
+      <section class="daily-summary-section" id="summary-section">
+        <h2>📋 오늘의 종합 요약</h2>
+        <p id="summary-text"></p>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <p>Powered by Claude AI · 뉴스 출처: Reuters, BBC, AP, Bloomberg, Yonhap, TechCrunch 외</p>
+  </footer>
+
+  <div id="toast" class="toast hidden"></div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>

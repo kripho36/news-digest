@@ -1,0 +1,369 @@
+{
+  "generated_at": "2026년 04월 29일 23:38 KST",
+  "date_label": "2026-04-29",
+  "weekday": "수요일",
+  "categories": {
+    "korea": [
+      {
+        "title_ko": "트럼프, 이란에 협상 재개 촉구",
+        "importance": 5,
+        "summary_ko": "트럼프 미국 대통령이 이란에 협상 재개를 촉구했다. 이란은 미국의 제재로 인해 어려움을 겪고 있다.",
+        "source": "Yonhap English",
+        "url": "https://en.yna.co.kr/view/AEN20260429011600315",
+        "published": "2026-04-29 13:01 KST",
+        "stars": "★★★★★",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "엔비디아, 삼성·SK하이닉스와 물리적 AI 협력 논의",
+        "importance": 4,
+        "summary_ko": "엔비디아의 고위幹부가 삼성과 SK하이닉스와의 물리적 AI 협력을 논의했다. 이 협력은 AI 기술의 발전에 기여할 수 있다.",
+        "source": "Yonhap English",
+        "url": "https://en.yna.co.kr/view/AEN20260429005851320",
+        "published": "2026-04-29 10:46 KST",
+        "stars": "★★★★☆",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "하이브, 1분기 매출 7000억 원 달성",
+        "importance": 4,
+        "summary_ko": "하이브는 1분기 매출 7000억 원을 달성했다. 이는 BTS의 컴백으로 인한 매출 증가에 기인한다.",
+        "source": "Yonhap English",
+        "url": "https://en.yna.co.kr/view/AEN20260429009951320",
+        "published": "2026-04-29 10:36 KST",
+        "stars": "★★★★☆",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "한국, 미국과 북한 비핵화 협력 논의",
+        "importance": 4,
+        "summary_ko": "한국과 미국은 북한의 비핵화를 위한 협력을 논의했다. 이 협력은 북한의 비핵화를 위한 중요한 단계이다.",
+        "source": "Yonhap English",
+        "url": "https://en.yna.co.kr/view/AEN20260429011200315",
+        "published": "2026-04-29 09:36 KST",
+        "stars": "★★★★☆",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "표준普관, 한국의 신용 등급을 'AA'로 유지",
+        "importance": 3,
+        "summary_ko": "표준普관은 한국의 신용 등급을 'AA'로 유지했다. 이는 한국의 경제가 안정적임을 의미한다.",
+        "source": "Yonhap English",
+        "url": "https://en.yna.co.kr/view/AEN20260429011000320",
+        "published": "2026-04-29 09:20 KST",
+        "stars": "★★★☆☆",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "현대차, 베이징 모터쇼에 8년 만에 참가",
+        "importance": 3,
+        "summary_ko": "현대차는 8년 만에 베이징 모터쇼에 참가했다. 이는 중국 시장에서 현대차의 입지를 강화하는 중요한 계기이다.",
+        "source": "Yonhap English",
+        "url": "https://en.yna.co.kr/view/AEN20260429010900320",
+        "published": "2026-04-29 09:00 KST",
+        "stars": "★★★☆☆",
+        "category": "korea",
+        "category_ko": "한국"
+      }
+    ],
+    "us_politics": [
+      {
+        "title_ko": "미국 대법원, 루이지애나의 하원 선거구 분할을 위헌 판결",
+        "importance": 5,
+        "summary_ko": "미국 대법원은 루이지애나의 하원 선거구 분할을 위헌이라고 판결했다. 이는 미国の 정치 체제에 큰 영향을 미칠 수 있다.",
+        "source": "NPR Politics",
+        "url": "https://www.npr.org/2026/04/29/nx-s1-5754657/supreme-court-louisiana-redistricting",
+        "published": "2026-04-29 14:24 KST",
+        "stars": "★★★★★",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "킹 찰스, 미국 방문으로 영국과 미국의 관계 개선 기대",
+        "importance": 4,
+        "summary_ko": "킹 찰스의 미국 방문으로 영국과 미국의 관계가 개선될 수 있다. 이는 양국의 협력을 강화하는 중요한 계기이다.",
+        "source": "BBC US & Canada",
+        "url": "https://www.bbc.com/news/articles/cwy2xyvx109o",
+        "published": "2026-04-29 12:36 KST",
+        "stars": "★★★★☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "미국 대법원, 임시 보호 지위 소송을 심리",
+        "importance": 4,
+        "summary_ko": "미국 대법원은 임시 보호 지위 소송을 심리했다. 이는 많은 이민자의 운명을 결정하는 중요한 판결이다.",
+        "source": "NPR Politics",
+        "url": "https://www.npr.org/2026/04/29/g-s1-119171/up-first-newsletter-james-comey-king-charles-scotus-temporary-protected-status-jerome-powell-federal-reserve",
+        "published": "2026-04-29 11:26 KST",
+        "stars": "★★★★☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "스피릿 에어라인, 저가 항공으로 성장했지만 큰 항공사에 밀려",
+        "importance": 3,
+        "summary_ko": "스피릿 에어라인은 저가 항공으로 성장했지만 큰 항공사에 밀려났다. 이는 저가 항공의 한계를 보여주는 예이다.",
+        "source": "NPR Politics",
+        "url": "https://www.npr.org/sections/planet-money/2026/04/29/g-s1-118961/spirit-airlines-tried-to-be-the-dollar-general-of-the-skies-then-the-big-airlines-beat-it-at-its-own-game",
+        "published": "2026-04-29 10:30 KST",
+        "stars": "★★★☆☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "머스크, 오픈AI의 창립자에게 기부금을 빼돌린 혐의",
+        "importance": 3,
+        "summary_ko": "머스크는 오픈AI의 창립자에게 기부금을 빼돌린 혐의를 받았다. 이는 머스크의 명성이 떨어지는 계기가 될 수 있다.",
+        "source": "BBC US & Canada",
+        "url": "https://www.bbc.com/news/articles/cz027nyz529o",
+        "published": "2026-04-29 10:12 KST",
+        "stars": "★★★☆☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "킹 찰스의 미국 의회 연설, 양국의 관계 개선 기대",
+        "importance": 3,
+        "summary_ko": "킹 찰스의 미국 의회 연설로 양국의 관계가 개선될 수 있다. 이는 양국의 협력을 강화하는 중요한 계기이다.",
+        "source": "BBC US & Canada",
+        "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o",
+        "published": "2026-04-29 08:48 KST",
+        "stars": "★★★☆☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      }
+    ],
+    "world": [
+      {
+        "title_ko": "프랑스, 말리에서 프랑스 국민에게 탈출 지시",
+        "importance": 5,
+        "summary_ko": "프랑스는 말리에서 프랑스 국민에게 탈출 지시를 내렸다. 이는 말리의 안전이 위협을 받고 있음을 의미한다.",
+        "source": "BBC World",
+        "url": "https://www.bbc.com/news/articles/cp3pdgvpn27o",
+        "published": "2026-04-29 14:18 KST",
+        "stars": "★★★★★",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "말리 난민, 공격으로 인한 참혹한 상황을 증언",
+        "importance": 4,
+        "summary_ko": "말리 난민은 공격으로 인한 참혹한 상황을 증언했다. 이는 말리의 상황이 매우 심각함을 보여준다.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/features/2026/4/29/we-saw-terrible-things-mali-refugees-tell-of-atrocities-amid-attacks",
+        "published": "2026-04-29 14:16 KST",
+        "stars": "★★★★☆",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "이란, 우라늄 보유량에 접근할 수 있을 것",
+        "importance": 4,
+        "summary_ko": "이란은 우라늄 보유량에 접근할 수 있을 것이라고 한다. 이는 이란의 핵 개발이 재개될 수 있음을 의미한다.",
+        "source": "Bloomberg Markets",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-29/iran-could-access-uranium-stockpile-nuclear-watchdog-says",
+        "published": "2026-04-29 13:48 KST",
+        "stars": "★★★★☆",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "러시아, 모스크바 승리 기념일 축제를 축소",
+        "importance": 3,
+        "summary_ko": "러시아는 모스크바 승리 기념일 축제를 축소했다. 이는 우크라이나의 위협으로 인한 것이다.",
+        "source": "BBC World",
+        "url": "https://www.bbc.com/news/articles/c794wp4yy93o",
+        "published": "2026-04-29 13:01 KST",
+        "stars": "★★★☆☆",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "세계적인 삼림 파괴, 엘니뇨로 인해 재개될 수 있다",
+        "importance": 3,
+        "summary_ko": "세계적인 삼림 파괴는 엘니뇨로 인해 재개될 수 있다. 이는 환경에 큰 영향을 미칠 수 있다.",
+        "source": "BBC World",
+        "url": "https://www.bbc.com/news/articles/c78q5pygn66o",
+        "published": "2026-04-29 13:26 KST",
+        "stars": "★★★☆☆",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "러시아와 벨라루스, 세계 복싱 연맹에서 중립으로 참가",
+        "importance": 3,
+        "summary_ko": "러시아와 벨라루스는 세계 복싱 연맹에서 중립으로 참가할 수 있다. 이는 러시아와 벨라루스의 국제 관계가 개선될 수 있음을 의미한다.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/4/29/world-boxing-allows-russian-belarusian-boxers-to-compete-as-neutrals",
+        "published": "2026-04-29 13:17 KST",
+        "stars": "★★★☆☆",
+        "category": "world",
+        "category_ko": "세계"
+      }
+    ],
+    "finance": [
+      {
+        "title_ko": "영국, 금리 인상 가능성에 대한 전망",
+        "importance": 4,
+        "summary_ko": "영국은 금리 인상 가능성에 대한 전망이 있다. 이는 영국 경제에 큰 영향을 미칠 수 있다.",
+        "source": "BBC Business",
+        "url": "https://www.bbc.com/news/articles/c3dky111m40o",
+        "published": "2026-04-29 14:32 KST",
+        "stars": "★★★★☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "미국, 금리 인상 가능성에 대한 전망",
+        "importance": 4,
+        "summary_ko": "미국은 금리 인상 가능성에 대한 전망이 있다. 이는 미국 경제에 큰 영향을 미칠 수 있다.",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/79fe5250-4df9-4f8e-9e87-ffbffe3cb9a1",
+        "published": "2026-04-29 14:24 KST",
+        "stars": "★★★★☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "일본과 연결된 유조선, 호르무즈 해협을 통과",
+        "importance": 3,
+        "summary_ko": "일본과 연결된 유조선이 호르무즈 해협을 통과했다. 이는 중동의 상황이 안정화되는 것을 의미한다.",
+        "source": "Bloomberg Markets",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-29/hormuz-tracker-tanker-exits-as-near-closure-begins-third-month",
+        "published": "2026-04-29 14:21 KST",
+        "stars": "★★★☆☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "스타벅스, 매출 증가세 지속",
+        "importance": 3,
+        "summary_ko": "스타벅스는 매출 증가세를 지속하고 있다. 이는 스타벅스의 경영이 잘되고 있음을 의미한다.",
+        "source": "Bloomberg Markets",
+        "url": "https://www.bloomberg.com/news/videos/2026-04-29/starbucks-ceo-sales-momentum-is-continuing-video",
+        "published": "2026-04-29 14:05 KST",
+        "stars": "★★★☆☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "호주, 중국에 대해 안정적인 무역을 위한 연료 공급 필요",
+        "importance": 3,
+        "summary_ko": "호주는 중국에 대해 안정적인 무역을 위한 연료 공급이 필요하다고 말했다. 이는 호주와 중국의 무역 관계가 개선될 수 있음을 의미한다.",
+        "source": "Bloomberg Markets",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-29/australia-tells-china-stable-trade-needs-stable-fuel-supply",
+        "published": "2026-04-29 13:58 KST",
+        "stars": "★★★☆☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "일본 엔화, 160엔 대에 도달",
+        "importance": 3,
+        "summary_ko": "일본 엔화가 160엔 대에 도달했다. 이는 일본 경제에 큰 영향을 미칠 수 있다.",
+        "source": "Bloomberg Markets",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-29/yen-hits-key-160-per-dollar-level-as-traders-eye-boj-next-steps",
+        "published": "2026-04-29 13:57 KST",
+        "stars": "★★★☆☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      }
+    ],
+    "tech": [
+      {
+        "title_ko": "오스모스 키보드, 더 저렴한 버전 출시",
+        "importance": 3,
+        "summary_ko": "오스모스 키보드의 더 저렴한 버전이 출시되었다. 이는 음악 제작자들에게 좋은 소식이다.",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller",
+        "published": "2026-04-29 14:07 KST",
+        "stars": "★★★☆☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "애플, 앱 스토어 수수료 변경에 대한 소송 패소",
+        "importance": 3,
+        "summary_ko": "애플은 앱 스토어 수수료 변경에 대한 소송에서 패소했다. 이는 애플의 앱 스토어 정책이 변경될 수 있음을 의미한다.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/",
+        "published": "2026-04-29 14:06 KST",
+        "stars": "★★★☆☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "구글, 번역기에서 발음 연습 기능 추가",
+        "importance": 3,
+        "summary_ko": "구글은 번역기에서 발음 연습 기능을 추가했다. 이는 언어 학습자들에게 좋은 소식이다.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/04/29/google-translate-now-lets-you-practice-pronunciation/",
+        "published": "2026-04-29 12:34 KST",
+        "stars": "★★★☆☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "파이어스톰 랩스, 드론 공장建设을 위한 자금 조달",
+        "importance": 3,
+        "summary_ko": "파이어스톰 랩스는 드론 공장建设을 위한 자금 조달을 받았다. 이는 드론 산업의 발전에 기여할 수 있다.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+        "published": "2026-04-29 13:10 KST",
+        "stars": "★★★☆☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "BMW 아이 벤처스, 새로운 펀드 출시",
+        "importance": 3,
+        "summary_ko": "BMW 아이 벤처스는 새로운 펀드를 출시했다. 이는 자동차 산업의 기술 발전에 기여할 수 있다.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
+        "published": "2026-04-29 13:10 KST",
+        "stars": "★★★☆☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "테일러 스위프트, 딥페이크 영상으로 인한 사기 주의",
+        "importance": 3,
+        "summary_ko": "테일러 스위프트의 딥페이크 영상이 사기 주의를 필요로 한다. 이는 딥페이크 기술의 위험성을 보여준다.",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+        "published": "2026-04-29 13:00 KST",
+        "stars": "★★★☆☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      }
+    ]
+  },
+  "daily_summary": "오늘의 뉴스에서는 미국과 한국의 정치 및 경제 상황, 세계적인 사건들, 기술 발전 등 다양한 주제가 다루어졌습니다. 미국과 한국은 북한의 비핵화를 위한 협력을 논의했으며, 세계적인 삼림 파괴는 엘니뇨로 인해 재개될 수 있습니다. 또한, 일본과 연결된 유조선이 호르무즈 해협을 통과했으며, 스타벅스는 매출 증가세를 지속하고 있습니다. 기술 분야에서는 애플이 앱 스토어 수수료 변경에 대한 소송에서 패소했으며, 구글은 번역기에서 발음 연습 기능을 추가했습니다.",
+  "key_keywords": [
+    "미국",
+    "한국",
+    "북한",
+    "삼림 파괴",
+    "엘니뇨",
+    "일본",
+    "유조선",
+    "호르무즈 해협",
+    "스타벅스",
+    "애플",
+    "구글",
+    "기술"
+  ],
+  "raw_counts": {
+    "world": 30,
+    "us_politics": 9,
+    "tech": 30,
+    "finance": 30,
+    "korea": 30
+  }
+}

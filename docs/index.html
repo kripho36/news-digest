@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>글로벌 뉴스 다이제스트</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="header-title">
+        <span class="logo">📰</span>
+        <div>
+          <h1>글로벌 뉴스 다이제스트</h1>
+          <p class="header-sub">Reuters · BBC · AP · Bloomberg · Yonhap</p>
+        </div>
+      </div>
+      <div id="meta-bar" class="meta-bar">
+        <span id="generated-at"></span>
+        <span id="weekday-label"></span>
+      </div>
+    </div>
+  </header>
+
+  <main id="app">
+    <div id="loading-screen" class="loading-screen">
+      <div class="spinner"></div>
+      <p>뉴스를 불러오는 중입니다...</p>
+    </div>
+
+    <div id="error-screen" class="empty-screen hidden">
+      <p>📭 뉴스 데이터를 불러오지 못했습니다.</p>
+    </div>
+
+    <div id="digest-root" class="hidden">
+      <section class="keywords-bar" id="keywords-section"></section>
+      <div id="categories-grid"></div>
+      <section class="daily-summary-section" id="summary-section">
+        <h2>📋 오늘의 종합 요약</h2>
+        <p id="summary-text"></p>
+      </section>
+    </div>
+  </main>
+
+  <footer>
+    <p>Powered by Groq AI (Llama 3.3 70B) · 뉴스 출처: Reuters, BBC, AP, Bloomberg, Yonhap, TechCrunch 외</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
