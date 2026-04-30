@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026년 04월 30일 11:13 KST",
+  "generated_at": "2026년 04월 30일 11:22 KST",
   "date_label": "2026-04-30",
   "weekday": "목요일",
   "categories": {
@@ -7,42 +7,31 @@
       {
         "title_ko": "삼성의 승계 드라마",
         "importance": 4,
-        "summary_ko": "삼성의 가족 왕조는 복잡하여 한국에서 종종 헤드라인을 장식합니다. 이 회사는 최근 승계 문제로 어려움을 겪고 있습니다.",
+        "summary_ko": "삼성의 가족 왕조는 너무 복잡하여 한국에서 종종 헤드라인 뉴스가 됩니다. 이 회사의 승계 문제는 최근에 다시 논의되고 있습니다. 삼성의 승계는 한국 경제와 사회에 큰 영향을 미칠 것입니다.",
         "source": "BBC Asia",
         "url": "https://www.bbc.com/news/articles/c9d313g91g4o",
         "published": "2026-04-29 23:21 KST",
         "stars": "★★★★☆",
         "category": "korea",
         "category_ko": "한국"
-      },
-      {
-        "title_ko": "Bondi 사격 사건에 대한 왕실 위원회",
-        "importance": 3,
-        "summary_ko": "Bondi 사격 사건에 대한 왕실 위원회의 임시 보고서는 총기 개혁이 우선되어야 한다고 밝혔습니다.",
-        "source": "BBC Asia",
-        "url": "https://www.bbc.com/news/articles/cdjpw0n889yo",
-        "published": "2026-04-30 01:26 KST",
-        "stars": "★★★☆☆",
-        "category": "korea",
-        "category_ko": "한국"
       }
     ],
     "us_politics": [
       {
-        "title_ko": "트럼프 행정부, 국가 과학 위원회 회원 해임",
-        "importance": 4,
-        "summary_ko": "트럼프 행정부는 국가 과학 위원회 회원들을 해임했습니다. 이 위원회는 국가 과학 재단을 관장합니다.",
+        "title_ko": "트럼프 행정부, 국가과학위원회 회원 해임 시도",
+        "importance": 5,
+        "summary_ko": "트럼프 행정부는 국가과학위원회 회원들을 해임하려고 합니다. 이는 과학계에서 큰 논란을 일으키고 있습니다. 국가과학위원회는 미국의 과학 정책을 결정하는 중요한 역할을 합니다.",
         "source": "NPR Politics",
         "url": "https://www.npr.org/2026/04/29/nx-s1-5802921/trump-administration-moves-to-dismiss-members-of-the-national-science-board",
         "published": "2026-04-29 22:51 KST",
-        "stars": "★★★★☆",
+        "stars": "★★★★★",
         "category": "us_politics",
         "category_ko": "미국 정치"
       },
       {
-        "title_ko": "하원, 논쟁의 여지가 있는 스파이 도구 연장",
+        "title_ko": "하원, 논란의 스파이 도구 연장",
         "importance": 4,
-        "summary_ko": "하원은 논쟁의 여지가 있는 스파이 도구의 연장을 승인했습니다. 그러나 상원에서의 승인은 불확실합니다.",
+        "summary_ko": "미국 하원은 논란의 스파이 도구인 FISA 702를 3년간 연장했습니다. 이는 미국의 감시 프로그램에 대한 논란을 재점화했습니다.",
         "source": "NPR Politics",
         "url": "https://www.npr.org/2026/04/29/g-s1-119094/congress-fisa-702",
         "published": "2026-04-29 21:30 KST",
@@ -53,9 +42,9 @@
     ],
     "world": [
       {
-        "title_ko": "이란, 미국의 위협에 대한 반대 시위",
+        "title_ko": "이란, 미국의 위협에 대한 반발",
         "importance": 5,
-        "summary_ko": "이란에서는 미국의 위협에 대한 반대 시위가 열렸습니다. 시위대는 미국의 위협을 중단할 것을 요구했습니다.",
+        "summary_ko": "이란은 미국의 위협에 대해 강하게 반발하고 있습니다. 이란의 지도자들은 미국의 압력을 거부하고 있습니다. 이란과 미국의 관계는 매우 긴장되어 있습니다.",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/pro-government-rally-in-tehran-demands-end-to-us-threats",
         "published": "2026-04-30 01:37 KST",
@@ -64,12 +53,12 @@
         "category_ko": "세계"
       },
       {
-        "title_ko": "중동, 유대인 군대 징집 반대 시위",
+        "title_ko": "중국, 제조업 활동 확대",
         "importance": 4,
-        "summary_ko": "중동에서는 유대인 군대 징집에 대한 반대 시위가 열렸습니다. 시위대는 징집을 중단할 것을 요구했습니다.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/hundreds-of-ultra-orthodox-jews-protest-israels-military-draft",
-        "published": "2026-04-30 01:16 KST",
+        "summary_ko": "중국의 제조업 활동은 확대되고 있습니다. 이는 중국 경제의 회복을 나타내는 중요한 지표입니다. 중국의 제조업은 글로벌 경제에 큰 영향을 미칩니다.",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-30/china-s-factory-activity-expands-despite-pressure-from-iran-war",
+        "published": "2026-04-30 01:39 KST",
         "stars": "★★★★☆",
         "category": "world",
         "category_ko": "세계"
@@ -77,12 +66,12 @@
     ],
     "finance": [
       {
-        "title_ko": "중국, 공장 활동 확대",
+        "title_ko": "뉴질랜드 기업, 비관적 전망",
         "importance": 4,
-        "summary_ko": "중국은 이란과의 전쟁으로 인한 압력에도 불구하고 공장 활동을 확대했습니다.",
+        "summary_ko": "뉴질랜드의 기업들은 비관적인 전망을 가지고 있습니다. 이는 뉴질랜드 경제의 불안정을 나타내는 중요한 지표입니다. 뉴질랜드의 경제는 글로벌 경제에 큰 영향을 받습니다.",
         "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-30/china-s-factory-activity-expands-despite-pressure-from-iran-war",
-        "published": "2026-04-30 01:39 KST",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-30/new-zealand-firms-turn-pessimistic-as-costs-rise-demand-wobbles",
+        "published": "2026-04-30 02:06 KST",
         "stars": "★★★★☆",
         "category": "finance",
         "category_ko": "금융 / 경제"
@@ -90,7 +79,7 @@
       {
         "title_ko": "인도, 루ピー 방어에 어려움",
         "importance": 4,
-        "summary_ko": "인도는 자본 유입이 부족하여 루ピー 방어에 어려움을 겪고 있습니다.",
+        "summary_ko": "인도는 루ピー 방어에 어려움을 겪고 있습니다. 이는 인도 경제의 불안정을 나타내는 중요한 지표입니다. 인도의 루ピー는 글로벌 경제에 큰 영향을 받습니다.",
         "source": "Bloomberg",
         "url": "https://www.bloomberg.com/news/articles/2026-04-30/india-s-rupee-defense-faces-tough-test-as-capital-flows-stall",
         "published": "2026-04-30 01:18 KST",
@@ -101,35 +90,36 @@
     ],
     "tech": [
       {
-        "title_ko": "애플, 구글 페이의 지배력에 도전",
-        "importance": 4,
-        "summary_ko": "애플과 메타는 인도에서 구글 페이의 지배력에 도전하고 있습니다. 이들은 인도 정부와의 협상을 통해 구글 페이의 시장 점유율을 낮추고자 합니다.",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
-        "published": "2026-04-30 01:00 KST",
-        "stars": "★★★★☆",
+        "title_ko": "애플, 구글, 아마존, 마이크로소프트, AI 투자競争",
+        "importance": 5,
+        "summary_ko": "애플, 구글, 아마존, 마이크로소프트 등 세계 주요 기술 기업들은 AI 투자競争을 하고 있습니다. 이는 기술 산업의 미래를 결정하는 중요한 경쟁입니다. AI는 기술 산업의 핵심 기술입니다.",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/videos/2026-04-30/tech-earnings-show-ai-is-driving-a-massive-spending-race-video",
+        "published": "2026-04-30 00:38 KST",
+        "stars": "★★★★★",
         "category": "tech",
         "category_ko": "테크 / IT"
       },
       {
-        "title_ko": "애플, 클라우드 사업 확대",
+        "title_ko": "엘론 머스크, 오픈AI 소송",
         "importance": 4,
-        "summary_ko": "애플은 클라우드 사업을 확대하고 있습니다. 이 회사는 클라우드 사업으로 인해 수익을 증가시키고 있지만,同時에 많은 비용을 지출하고 있습니다.",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-        "published": "2026-04-30 00:14 KST",
+        "summary_ko": "엘론 머스크는 오픈AI와의 소송에서 어려움을 겪고 있습니다. 이는 기술 산업의 주요 뉴스입니다. 엘론 머스크는 기술 산업의 중요한 인물입니다.",
+        "source": "BBC Tech",
+        "url": "https://www.bbc.com/news/articles/czj29yygyzgo",
+        "published": "2026-04-29 23:18 KST",
         "stars": "★★★★☆",
         "category": "tech",
         "category_ko": "테크 / IT"
       }
     ]
   },
-  "daily_summary": "오늘의 주요 뉴스는 이란과 미국의 관계가緊張하고, 중국은 공장 활동을 확대했습니다. 또한 애플과 메타는 인도에서 구글 페이의 지배력에 도전하고 있습니다. 그리고 삼성의 승계 드라마는 한국에서 큰 관심을 모으고 있습니다.",
+  "daily_summary": "오늘의 주요 뉴스는 미국의 정치와 경제, 기술 산업의 경쟁, 이란과 미국의 관계, 중국의 제조업 활동 확대 등입니다. 이러한 뉴스들은 글로벌 경제와 정치에 큰 영향을 미칠 것입니다. 특히, 기술 산업의 경쟁은 미래를 결정하는 중요한 경쟁입니다.",
   "key_keywords": [
-    "이란",
+    "AI",
+    "기술 산업",
+    "글로벌 경제",
     "미국",
-    "중국",
-    "애플",
-    "메타"
+    "이란",
+    "중국"
   ]
 }

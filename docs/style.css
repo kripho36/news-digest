@@ -352,13 +352,12 @@ main {
 }
 
 .news-summary {
-  font-size: 0.78rem;
-  color: var(--text-muted);
-  line-height: 1.5;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  font-size: 0.82rem;
+  color: #9da3b8;
+  line-height: 1.7;
+  margin-top: 4px;
+  border-left: 2px solid var(--border);
+  padding-left: 10px;
 }
 
 /* ── DAILY SUMMARY ── */
