@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026년 08월 16일 22:00 KST",
+  "date_label": "2026-08-16",
+  "weekday": "일요일",
+  "categories": {
+    "korea": [
+      {
+        "title_ko": "인도네시아 지진으로 수천명이 피란",
+        "importance": 4,
+        "summary_ko": "인도네시아에서 발생한 지진으로 수천명이 피란하였으며, 최소 53명이 사망하였다. 지진으로 인해 많은 주택과 공공 건물이 손상되었으며, 구조 작업이 진행 중이다. 이 지진은 인도네시아를 포함한 아시아 지역에 큰 영향을 미칠 것으로 예상된다.",
+        "source": "BBC Asia",
+        "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o",
+        "published": "2026-08-16 12:37 KST",
+        "stars": "★★★★☆",
+        "category": "korea",
+        "category_ko": "한국"
+      }
+    ],
+    "us_politics": [
+      {
+        "title_ko": "하와이에서 허리케인 라라로 인한 홍수",
+        "importance": 3,
+        "summary_ko": "하와이에서 허리케인 라라로 인한 홍수가 발생하였다. 강풍과 비로 인해 많은 주택과 건물이 손상되었으며, 일부 지역에서는洪水로 인해 주택이 쓸려가기도 하였다. 현지 당국은 피해 상황을 조사 중이다.",
+        "source": "BBC US",
+        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo",
+        "published": "2026-08-16 12:53 KST",
+        "stars": "★★★☆☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "트럼프, 메디케이드 자금 차단",
+        "importance": 4,
+        "summary_ko": "트럼프 대통령은 메디케이드 자금을 차단하였으며, 이는 일부 주에서 의료 서비스 제공에 영향을 미칠 것으로 예상된다. 트럼프 대통령의 이 결정은 일부 주에서 논쟁을 일으키고 있다.",
+        "source": "NPR Politics",
+        "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+        "published": "2026-08-16 11:54 KST",
+        "stars": "★★★★☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      }
+    ],
+    "world": [
+      {
+        "title_ko": "벨기에에서 발생한 대형 산불",
+        "importance": 4,
+        "summary_ko": "벨기에에서 발생한 대형 산불로 인해 600명이 피란하였으며, 독일 국경 지대를 향해 확산되고 있다. 현지 당국은 산불을 진화하기 위해 노력 중이다.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border",
+        "published": "2026-08-16 12:35 KST",
+        "stars": "★★★★☆",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "이스라엘, 서안 지구에 대한 민간 경찰의 통제",
+        "importance": 5,
+        "summary_ko": "이스라엘은 서안 지구에 대한 통제를 민간 경찰에게 넘겨주었다. 이는 사실상의 병합으로 간주될 수 있으며, 정착민들의 무장 단체를 강화할 것으로 예상된다.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police",
+        "published": "2026-08-16 11:54 KST",
+        "stars": "★★★★★",
+        "category": "world",
+        "category_ko": "세계"
+      }
+    ],
+    "finance": [
+      {
+        "title_ko": "글로벌 금리 상승, 채권 시장에 미치는 영향",
+        "importance": 4,
+        "summary_ko": "글로벌 금리 상승은 채권 시장에 큰 영향을 미칠 것으로 예상된다. 미 연방준비제도는 금리 인상을 고려 중이며, 이는 채권 시장에 큰 변화를 가져올 수 있다.",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-16/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb",
+        "published": "2026-08-16 12:00 KST",
+        "stars": "★★★★☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      }
+    ],
+    "tech": [
+      {
+        "title_ko": "AI 기술의 발전",
+        "importance": 4,
+        "summary_ko": "AI 기술은 최근 급격한 발전을 이루어왔다. 이는 다양한 산업에 큰 영향을 미칠 것으로 예상된다. 그러나 AI 기술의 발전은 또한 여러 가지 문제를引き起こ을 수 있다.",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "published": "2026-08-16 12:00 KST",
+        "stars": "★★★★☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      }
+    ]
+  },
+  "daily_summary": "오늘의 뉴스에서는 인도네시아 지진, 하와이 허리케인, 벨기에 산불, 이스라엘의 서안 지구 통제, 글로벌 금리 상승, AI 기술의 발전 등 다양한 사건이 발생하였다. 이러한 사건들은 각국과 산업에 큰 영향을 미칠 것으로 예상된다.",
+  "key_keywords": [
+    "인도네시아 지진",
+    "하와이 허리케인",
+    "벨기에 산불",
+    "이스라엘",
+    "서안 지구",
+    "글로벌 금리",
+    "AI 기술"
+  ]
+}

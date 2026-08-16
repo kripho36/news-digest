@@ -1,51 +1,40 @@
 {
-  "generated_at": "2026년 05월 07일 22:18 KST",
-  "date_label": "2026-05-07",
-  "weekday": "목요일",
+  "generated_at": "2026년 08월 16일 22:00 KST",
+  "date_label": "2026-08-16",
+  "weekday": "일요일",
   "categories": {
     "korea": [
       {
-        "title_ko": "호주에서 이슬람국가 관련 여성 3명 체포",
+        "title_ko": "인도네시아 지진으로 수천명이 피란",
         "importance": 4,
-        "summary_ko": "호주에서 이슬람국가 관련 여성 3명이 체포되었습니다. 이들은 수년 만에 호주로 돌아온 직후 체포되었습니다. 이슬람국가와의 관련성으로 인해 체포된 것으로 알려졌습니다.",
+        "summary_ko": "인도네시아에서 발생한 지진으로 수천명이 피란하였으며, 최소 53명이 사망하였다. 지진으로 인해 많은 주택과 공공 건물이 손상되었으며, 구조 작업이 진행 중이다. 이 지진은 인도네시아를 포함한 아시아 지역에 큰 영향을 미칠 것으로 예상된다.",
         "source": "BBC Asia",
-        "url": "https://www.bbc.com/news/articles/czj2emlv2kjo",
-        "published": "2026-05-07 12:23 KST",
+        "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o",
+        "published": "2026-08-16 12:37 KST",
         "stars": "★★★★☆",
-        "category": "korea",
-        "category_ko": "한국"
-      },
-      {
-        "title_ko": "오스트레일리아 아웃백에서 5세 소년 사망",
-        "importance": 3,
-        "summary_ko": "오스트레일리아 아웃백에서 5세 소년이 사망했습니다. 소년은 아보리진 마을에서 실종된 후 사망한 것으로 알려졌습니다.",
-        "source": "BBC Asia",
-        "url": "https://www.bbc.com/news/articles/cdeplz29p7go",
-        "published": "2026-05-07 10:37 KST",
-        "stars": "★★★☆☆",
         "category": "korea",
         "category_ko": "한국"
       }
     ],
     "us_politics": [
       {
-        "title_ko": "브라질 대통령, 트럼프와 회담",
-        "importance": 5,
-        "summary_ko": "브라질 대통령이 트럼프와 회담을 가졌습니다. 두 정상은 경제와 안보 문제를 논의했습니다.",
+        "title_ko": "하와이에서 허리케인 라라로 인한 홍수",
+        "importance": 3,
+        "summary_ko": "하와이에서 허리케인 라라로 인한 홍수가 발생하였다. 강풍과 비로 인해 많은 주택과 건물이 손상되었으며, 일부 지역에서는洪水로 인해 주택이 쓸려가기도 하였다. 현지 당국은 피해 상황을 조사 중이다.",
         "source": "BBC US",
-        "url": "https://www.bbc.com/news/articles/c8d84g963eeo",
-        "published": "2026-05-07 12:40 KST",
-        "stars": "★★★★★",
+        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo",
+        "published": "2026-08-16 12:53 KST",
+        "stars": "★★★☆☆",
         "category": "us_politics",
         "category_ko": "미국 정치"
       },
       {
-        "title_ko": "제프리 엡스타인 자살 관련 서한 공개",
+        "title_ko": "트럼프, 메디케이드 자금 차단",
         "importance": 4,
-        "summary_ko": "제프리 엡스타인의 자살 관련 서한이 공개되었습니다. 서한은 엡스타인의 전 세포동료가 발견한 것으로 알려졌습니다.",
-        "source": "BBC US",
-        "url": "https://www.bbc.com/news/articles/cd7pd0rqwreo",
-        "published": "2026-05-07 11:14 KST",
+        "summary_ko": "트럼프 대통령은 메디케이드 자금을 차단하였으며, 이는 일부 주에서 의료 서비스 제공에 영향을 미칠 것으로 예상된다. 트럼프 대통령의 이 결정은 일부 주에서 논쟁을 일으키고 있다.",
+        "source": "NPR Politics",
+        "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+        "published": "2026-08-16 11:54 KST",
         "stars": "★★★★☆",
         "category": "us_politics",
         "category_ko": "미국 정치"
@@ -53,23 +42,23 @@
     ],
     "world": [
       {
-        "title_ko": "인도 카슈미르, 청소년 마약 중독 예방 캠페인",
-        "importance": 3,
-        "summary_ko": "인도 카슈미르에서 청소년 마약 중독 예방 캠페인이 시작되었습니다. 캠페인은 마약 중독 문제를 해결하기 위해 시작되었습니다.",
+        "title_ko": "벨기에에서 발생한 대형 산불",
+        "importance": 4,
+        "summary_ko": "벨기에에서 발생한 대형 산불로 인해 600명이 피란하였으며, 독일 국경 지대를 향해 확산되고 있다. 현지 당국은 산불을 진화하기 위해 노력 중이다.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/india-administered-kashmir-launches-campaign-to-fight-youth-drug-addiction",
-        "published": "2026-05-07 12:49 KST",
-        "stars": "★★★☆☆",
+        "url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border",
+        "published": "2026-08-16 12:35 KST",
+        "stars": "★★★★☆",
         "category": "world",
         "category_ko": "세계"
       },
       {
-        "title_ko": "터키, 첫 대륙간 탄도 미사일 공개",
+        "title_ko": "이스라엘, 서안 지구에 대한 민간 경찰의 통제",
         "importance": 5,
-        "summary_ko": "터키가 첫 대륙간 탄도 미사일을 공개했습니다. 미사일은 6,000km의 사거리를 가지고 있습니다.",
+        "summary_ko": "이스라엘은 서안 지구에 대한 통제를 민간 경찰에게 넘겨주었다. 이는 사실상의 병합으로 간주될 수 있으며, 정착민들의 무장 단체를 강화할 것으로 예상된다.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/7/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know",
-        "published": "2026-05-07 11:40 KST",
+        "url": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police",
+        "published": "2026-08-16 11:54 KST",
         "stars": "★★★★★",
         "category": "world",
         "category_ko": "세계"
@@ -77,63 +66,39 @@
     ],
     "finance": [
       {
-        "title_ko": "식스 플래그스, 매출 상승으로 주가 상승",
+        "title_ko": "글로벌 금리 상승, 채권 시장에 미치는 영향",
         "importance": 4,
-        "summary_ko": "식스 플래그스의 매출이 상승하여 주가가 상승했습니다. 이는 방문객 수의 증가로 인한 것입니다.",
+        "summary_ko": "글로벌 금리 상승은 채권 시장에 큰 영향을 미칠 것으로 예상된다. 미 연방준비제도는 금리 인상을 고려 중이며, 이는 채권 시장에 큰 변화를 가져올 수 있다.",
         "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-05-07/six-flags-shares-rally-as-rising-attendance-drives-revenue-beat",
-        "published": "2026-05-07 13:08 KST",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-16/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb",
+        "published": "2026-08-16 12:00 KST",
         "stars": "★★★★☆",
-        "category": "finance",
-        "category_ko": "금융 / 경제"
-      },
-      {
-        "title_ko": "미국 실업자 수, 2년 만에 최저치",
-        "importance": 3,
-        "summary_ko": "미국 실업자 수가 2년 만에 최저치를 기록했습니다. 이는 경제 회복의 신호로 보입니다.",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/videos/2026-05-07/us-continuing-claims-fall-to-near-two-year-low-video",
-        "published": "2026-05-07 13:05 KST",
-        "stars": "★★★☆☆",
         "category": "finance",
         "category_ko": "금융 / 경제"
       }
     ],
     "tech": [
       {
-        "title_ko": "스포티파이, AI DJ 기능 확대",
+        "title_ko": "AI 기술의 발전",
         "importance": 4,
-        "summary_ko": "스포티파이가 AI DJ 기능을 확대했습니다. 이는 프랑스어, 독일어, 이탈리아어, 브라질 포르투갈어를 지원합니다.",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-        "published": "2026-05-07 12:20 KST",
-        "stars": "★★★★☆",
-        "category": "tech",
-        "category_ko": "테크 / IT"
-      },
-      {
-        "title_ko": "드림의 와일드 런치 이벤트",
-        "importance": 3,
-        "summary_ko": "드림의 와일드 런치 이벤트가 열렸습니다. 이는 다양한 제품을展示했습니다.",
+        "summary_ko": "AI 기술은 최근 급격한 발전을 이루어왔다. 이는 다양한 산업에 큰 영향을 미칠 것으로 예상된다. 그러나 AI 기술의 발전은 또한 여러 가지 문제를引き起こ을 수 있다.",
         "source": "The Verge",
-        "url": "https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026",
-        "published": "2026-05-07 13:15 KST",
-        "stars": "★★★☆☆",
+        "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "published": "2026-08-16 12:00 KST",
+        "stars": "★★★★☆",
         "category": "tech",
         "category_ko": "테크 / IT"
       }
     ]
   },
-  "daily_summary": "오늘의 뉴스에서는 브라질 대통령과 트럼프의 회담, 제프리 엡스타인 자살 관련 서한 공개, 터키의 첫 대륙간 탄도 미사일 공개 등이 주요 뉴스입니다. 또한, 식스 플래그스의 매출 상승과 미국 실업자 수의 최저치 기록 등 경제 뉴스도 있습니다. 기술 뉴스에서는 스포티파이의 AI DJ 기능 확대와 드림의 와일드 런치 이벤트 등이 있습니다.",
+  "daily_summary": "오늘의 뉴스에서는 인도네시아 지진, 하와이 허리케인, 벨기에 산불, 이스라엘의 서안 지구 통제, 글로벌 금리 상승, AI 기술의 발전 등 다양한 사건이 발생하였다. 이러한 사건들은 각국과 산업에 큰 영향을 미칠 것으로 예상된다.",
   "key_keywords": [
-    "트럼프",
-    "브라질 대통령",
-    "제프리 엡스타인",
-    "터키",
-    "대륙간 탄도 미사일",
-    "식스 플래그스",
-    "미국 실업자 수",
-    "스포티파이",
-    "AI DJ"
+    "인도네시아 지진",
+    "하와이 허리케인",
+    "벨기에 산불",
+    "이스라엘",
+    "서안 지구",
+    "글로벌 금리",
+    "AI 기술"
   ]
 }
