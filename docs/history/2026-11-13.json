@@ -1,0 +1,335 @@
+{
+  "generated_at": "2026년 11월 13일 08:22 KST",
+  "date_label": "2026-11-13",
+  "weekday": "금요일",
+  "categories": {
+    "korea": [
+      {
+        "title_ko": "원화 강세와 유가 하락으로 10월 수입물가 다시 하락",
+        "importance": 5,
+        "summary_ko": "한국은행 자료에 따르면 10월 수입물가 지수가 전월 대비 1.8% 감소해 9월의 1.9% 상승을 뒤집었다.",
+        "source": "Korea Times",
+        "url": "https://www.koreatimes.co.kr/economy/20261113/import-prices-fall-again-in-october-on-stronger-korean-won-lower-oil-prices",
+        "published": "2026-11-13 08:22 KST",
+        "stars": "★★★★★",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "한국·프랑스, 사클레이서 핵에너지 협의회 공동 개최",
+        "importance": 4,
+        "summary_ko": "양국은 140주년 외교관계 기념으로 제27차 핵에너지 공동협의회를 열고 기술 협력을 논의했다.",
+        "source": "Korea Times",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/20261113/korea-france-hold-joint-coordinating-committee-on-nuclear-energy-in-saclay",
+        "published": "2026-11-13 08:22 KST",
+        "stars": "★★★★☆",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "바이낸스, 북한 연계 사이버 공격 손실 전액 보상 완료",
+        "importance": 4,
+        "summary_ko": "바이낸스는 63억 달러 이상을 사용해 북한 관련 해킹으로 인한 자산 손실을 모두 복구했다고 발표했다.",
+        "source": "Korea Times",
+        "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261113/binance-says-all-asset-losses-from-n-korea-linked-cyberattack-covered",
+        "published": "2026-11-13 08:22 KST",
+        "stars": "★★★★☆",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "삼성 안내견 학교, 설립 33주년 맞아 활동 소개",
+        "importance": 3,
+        "summary_ko": "삼성 화재해상보험이 전액 지원하는 국내 최초 기업 운영 안내견 학교가 33주년을 맞았다.",
+        "source": "Korea Times",
+        "url": "https://www.koreatimes.co.kr/southkorea/society/20261113/weekender-samsung-guide-dog-school-marks-33-years-of-changing-lives",
+        "published": "2026-11-13 08:22 KST",
+        "stars": "★★★☆☆",
+        "category": "korea",
+        "category_ko": "한국"
+      }
+    ],
+    "us_politics": [
+      {
+        "title_ko": "워싱턴 DC 체육관 인근 총격 사건, 1명 사망 4명 부상",
+        "importance": 5,
+        "summary_ko": "백악관 북쪽 1마일 거리 아파트 건물 내 체육관에서 총격이 발생해 1명이 사망하고 4명이 부상을 입었다.",
+        "source": "BBC US",
+        "url": "https://www.bbc.co.uk/news/videos/cv702w84r5l1o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-13 04:24 KST",
+        "stars": "★★★★★",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "워싱턴 DC 총격 사건, 총격범 신원 확인",
+        "importance": 4,
+        "summary_ko": "경찰은 사망자 1명과 부상자 4명을 낸 총격 사건의 범인을 확인했다고 발표했다.",
+        "source": "BBC US",
+        "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-13 06:52 KST",
+        "stars": "★★★★☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "브루클린 건물 붕괴, 8명 사망",
+        "importance": 4,
+        "summary_ko": "주거용 건물이 인접 공사 현장으로 무너져 8명(어린이 포함)이 사망했다.",
+        "source": "BBC US",
+        "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-13 04:09 KST",
+        "stars": "★★★★☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "신디 홀셔, 캔자스 주지사 선거에서 민주당 유지",
+        "importance": 3,
+        "summary_ko": "주 상원의원인 홀셔가 트럼프 지지를 받은 공화당 후보를 제치고 주지사 자리를 차지했다.",
+        "source": "NPR Politics",
+        "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+        "published": "2026-11-13 07:52 KST",
+        "stars": "★★★☆☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      }
+    ],
+    "world": [
+      {
+        "title_ko": "마이크로소프트 서비스 장애, 수만 명 사용자 영향",
+        "importance": 5,
+        "summary_ko": "마이크로소프트는 서버 오류로 Outlook, Teams, Copilot 등 주요 서비스가 중단돼 수만 명이 이용에 차질을 겪었다.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
+        "published": "2026-11-13 06:03 KST",
+        "stars": "★★★★★",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "EU 지도자들, 우크라이나·러시아 평화 회담 참여 논의",
+        "importance": 4,
+        "summary_ko": "미국 특사가 푸틴과 회담 후 유럽이 협상 테이블에 참여할 가능성이 높아졌지만 구체적인 대표는 아직 미정이다.",
+        "source": "DW World",
+        "url": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-world-4025-xml-mrss",
+        "published": "2026-11-13 07:00 KST",
+        "stars": "★★★★☆",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "이탈리아, 프랑스 3-1 승리로 네이션스리그 선두 등극",
+        "importance": 3,
+        "summary_ko": "오리세가 선제골을 넣었지만 에소스토와 프라테시가 듀블골을 기록하며 이탈리아가 승리했다.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss",
+        "published": "2026-11-13 07:12 KST",
+        "stars": "★★★☆☆",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "미국 특사, 푸틴 회담 후 더블린에서 젤렌스키와 면담",
+        "importance": 3,
+        "summary_ko": "미국 특사 윗코프는 푸틴이 유럽 협상가들의 차기 우크라이나 회담 참여에 동의했다고 전했다.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-13 06:00 KST",
+        "stars": "★★★☆☆",
+        "category": "world",
+        "category_ko": "세계"
+      }
+    ],
+    "finance": [
+      {
+        "title_ko": "엔비디아, 젠슨 황 CEO 사임 후 임시 CEO 선임",
+        "importance": 5,
+        "summary_ko": "젠슨 황이 스캔들로 사임하고 이사회가 임시 CEO를 appoint했다. 엔비디아는 AI 중심 사업에 차질을 겪고 있다.",
+        "source": "The Guardian Business",
+        "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+        "published": "2026-11-13 06:33 KST",
+        "stars": "★★★★★",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "칼시, 트럼프 주니어와 advisory 계약 종료",
+        "importance": 4,
+        "summary_ko": "예측 시장 플랫폼 칼시는 민주당 중간선거 승리 후 정치적 압박을 받아 트럼프 주니어와의 계약을 끊었다.",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/1352ac24-bdd6-4093-9ebd-7b27b6fd29d3?syn-25a6b1a6=1",
+        "published": "2026-11-13 07:45 KST",
+        "stars": "★★★★☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "트럼프, 이란 평화 협정 추진 중단 신호",
+        "importance": 4,
+        "summary_ko": "트럼프 대통령은 JD 반스를 통해 이란과의 협정이 필요 없다고 밝히며 국내 문제에 집중하라고 지시했다.",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/3c1727bb-2966-4e5c-808b-873d14854fa2?syn-25a6b1a6=1",
+        "published": "2026-11-13 05:32 KST",
+        "stars": "★★★★☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "헝의 사임, 빅테크 창업자 모델 비판",
+        "importance": 3,
+        "summary_ko": "AI와 국가 안보 중심 경제에서 창업자 중심 경영의 위험성이 드러났다고 평가했다.",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/83051c3a-cab4-4c66-89fc-ae7149047a25?syn-25a6b1a6=1",
+        "published": "2026-11-13 07:50 KST",
+        "stars": "★★★☆☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      }
+    ],
+    "tech": [
+      {
+        "title_ko": "구글, 복잡한 질문에 강한 Gemini 4 Hydrogen 모델 출시",
+        "importance": 5,
+        "summary_ko": "구글은 Gemini 4 Hydrogen 모델이 다중 파트, 오타, 고도 전문 요청 등 복잡한 질문에 더 정확히 답한다며 검색·앱에 적용했다.",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+        "published": "2026-11-13 06:55 KST",
+        "stars": "★★★★★",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "Xbox, 사용자 맞춤 배경 및 가이드 메뉴 옵션 테스트 시작",
+        "importance": 4,
+        "summary_ko": "마이크로소프트는 Xbox Insiders에게 회전 배경, 디지털 게임 라이브러리 옵션, 가이드 메뉴 위치 변경 등 새로운 커스터마이징 기능을 시험한다.",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
+        "published": "2026-11-13 08:00 KST",
+        "stars": "★★★★☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "FAA, 전미 공역 AI 도구 확대 적용",
+        "importance": 4,
+        "summary_ko": "연방항공청은 항공 교통 혼잡 관리에 AI 조언을 전 미국 공역에 확대 적용했으며 항공사들은 이를 긍정적으로 평가했다.",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+        "published": "2026-11-13 07:28 KST",
+        "stars": "★★★★☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "민주당, 엔비디아 조사 서한 발송·황과 트럼프 연계 비판",
+        "importance": 3,
+        "summary_ko": "미국 의회는 엔비디아의 중국 판매와 트럼프와의 관계를 조사하며 두 번째 조사 서한을 보냈다.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+        "published": "2026-11-13 07:42 KST",
+        "stars": "★★★☆☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      }
+    ]
+  },
+  "daily_summary": "오늘은 글로벌 IT·AI 기업들의 움직임과 금융·정치 분야의 변동이 두드러졌다. 마이크로소프트 서비스 장애와 구글의 신형 Gemini 모델 출시가 기술 시장을 흔들었으며, 엔비디아는 CEO 사임과 의회 조사를 겪고 있다. 한편, 미국에서는 워싱턴 DC 총격 사건과 브루클린 건물 붕괴 등 안전 사고가 발생했고, 캔자스 주지사 선거에서 민주당이 승리했다. 한국에서는 원화 강세와 유가 하락으로 수입물가가 하락하고, 바이낸스가 북한 해킹 손실을 전액 보상했다.",
+  "key_keywords": [
+    "수입물가",
+    "엔비디아",
+    "워싱턴 DC 총격"
+  ],
+  "analysis_provider": "groq",
+  "analysis_status": "ai",
+  "raw_counts": {
+    "world": 24,
+    "us_politics": 22,
+    "tech": 24,
+    "finance": 24,
+    "korea": 24
+  },
+  "source_report": {
+    "BBC World": {
+      "status": "ok",
+      "articles": 18,
+      "elapsed_ms": 184
+    },
+    "Al Jazeera": {
+      "status": "ok",
+      "articles": 25,
+      "elapsed_ms": 138
+    },
+    "DW World": {
+      "status": "ok",
+      "articles": 11,
+      "elapsed_ms": 65
+    },
+    "NPR Politics": {
+      "status": "ok",
+      "articles": 10,
+      "elapsed_ms": 57
+    },
+    "BBC US": {
+      "status": "ok",
+      "articles": 12,
+      "elapsed_ms": 45
+    },
+    "PBS NewsHour": {
+      "status": "error",
+      "articles": 0,
+      "error": "HTTPSConnectionPool(host='www.pbs.org', port=443): Max retries exceeded with url: /newshour/feeds/rss/headlines (Caused by NewConnectionError(\"HTTPSConnection(h",
+      "elapsed_ms": 2062
+    },
+    "BBC Tech": {
+      "status": "ok",
+      "articles": 4,
+      "elapsed_ms": 289
+    },
+    "The Verge": {
+      "status": "ok",
+      "articles": 10,
+      "elapsed_ms": 84
+    },
+    "TechCrunch": {
+      "status": "ok",
+      "articles": 20,
+      "elapsed_ms": 91
+    },
+    "Ars Technica": {
+      "status": "ok",
+      "articles": 15,
+      "elapsed_ms": 68
+    },
+    "BBC Business": {
+      "status": "ok",
+      "articles": 11,
+      "elapsed_ms": 96
+    },
+    "Financial Times": {
+      "status": "ok",
+      "articles": 11,
+      "elapsed_ms": 1299
+    },
+    "The Guardian Business": {
+      "status": "ok",
+      "articles": 27,
+      "elapsed_ms": 153
+    },
+    "Yonhap English": {
+      "status": "ok",
+      "articles": 45,
+      "elapsed_ms": 127
+    },
+    "Korea Times": {
+      "status": "ok",
+      "articles": 15,
+      "elapsed_ms": 109
+    },
+    "BBC Asia": {
+      "status": "ok",
+      "articles": 2,
+      "elapsed_ms": 398
+    }
+  }
+}
