@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>뉴스 영어 노트 · 글로벌 뉴스 다이제스트</title><link rel="stylesheet" href="style.css"></head>
+<body><main class="study-guide"><a href="./">← 뉴스 다이제스트</a>
+<h1>뉴스 영어 노트</h1><p>영어 기사를 읽으며 표현을 익히고, 직접 쓴 요약을 고쳐 보세요.</p>
+<h2>기사로 공부하기</h2><ol>
+<li>원문 기사를 연 뒤 Chrome 확장 메뉴에서 <strong>뉴스 영어 노트</strong>를 누르세요. 기사 옆에 작성 창이 열립니다.</li>
+<li>영어 단어나 문장을 드래그하면 한국어 뜻이 선택한 위치에 뜹니다.</li>
+<li><strong>나의 영어 요약</strong>에 직접 쓴 뒤 <strong>내 요약 첨삭받기</strong>를 누르세요. 수정할 표현과 빠진 내용의 원문 근거를 확인할 수 있습니다.</li>
+<li><strong>저장한 글</strong>에서 초안과 회차별 첨삭을 다시 여세요. 글을 고치고 첨삭을 다시 받으면 새 작성본이 기록됩니다.</li></ol>
+<h2>처음 사용하는 Windows 노트북에서</h2><ol>
+<li><a href="https://github.com/kripho36/news-digest">프로젝트</a>를 노트북에 저장하세요. Python에서 <code>python -m pip install -r requirements.txt</code>로 의존성을 설치하고 프로젝트의 <code>.env</code>에 <code>GROQ_API_KEY</code>를 설정하세요. 기존 뉴스 발행기의 키를 사용할 수 있습니다.</li>
+<li>프로젝트의 <code>study/connect.cmd</code>를 실행해 이 노트북의 AI 연결을 등록하세요.</li>
+<li>Chrome 주소창에서 <code>chrome://extensions</code>를 열어 <strong>개발자 모드</strong>를 켜고 <strong>압축해제된 확장 프로그램을 로드합니다</strong>에서 <code>study/extension</code> 폴더를 선택하세요.</li></ol>
+<p>드래그한 표현과 주변 문장, 첨삭을 요청한 본문과 요약은 Groq로 전송됩니다. 작성본과 첨삭 기록은 사용 중인 Chrome 프로필에 저장됩니다.</p>
+</main></body></html>

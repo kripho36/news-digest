@@ -144,11 +144,12 @@ function Reader() {
     <>
       <header><div className="masthead">
         <h1>글로벌 뉴스 다이제스트</h1>
+        <div className="reader-tools"><a href="english-writing.html">영어 작문</a>
         {edition && <label className="archive">발행일
           <select value={pending || edition.date_label} onChange={e => selectDate(e.target.value)}>
             {dates.map(date => <option value={date} key={date}>{dateFormatter.format(new Date(date))}</option>)}
           </select>
-        </label>}
+        </label>}</div>
       </div></header>
       <main>
         {error && <p className="notice" role="alert">{error}</p>}

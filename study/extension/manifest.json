@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "뉴스 영어 노트",
+  "version": "1.0.0",
+  "description": "기사에서 선택한 영어 표현의 뜻을 보고 직접 쓴 요약과 첨삭을 저장합니다.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq36ALVM2PS9sI01ThdHYnuXnL5J6aeYsd3WOO+BUEI+DgWMexSsuasgWHwBKIi96kgz1oZWyCLY5YGlmem8GhZncZZKJHu/RNowd3pUnsfANgT/Qkd65FzUooAXQJWsFpdvEv4MMFS69dWhaTQc7oi2rJ8EAH/eLseIG4pdbR5q3cT4t9xdv4GTqCRtN2FUscCuMPbV24/EW9OGd/gAtWUKenqDwTp5ObFFfNjv62W+7aGxsaneSf7P2OeMPRuUTmFwEQmG5w8y1d0xGoi01kLay0a2ys7GG9oWip+F/XxGx31rbZZ1YX9JQ2868OSzZUCI/LQx1+0wF57Ob8d88twIDAQAB",
+  "minimum_chrome_version": "116",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "sidePanel",
+    "storage",
+    "nativeMessaging"
+  ],
+  "action": {
+    "default_title": "이 기사로 영어 공부"
+  },
+  "side_panel": {
+    "default_path": "panel.html"
+  },
+  "background": {
+    "service_worker": "worker.js"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+W"
+      }
+    }
+  }
+}

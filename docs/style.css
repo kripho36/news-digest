@@ -57,3 +57,11 @@ footer { margin-top: 2rem; padding: 1rem 0; border-top: 1px solid var(--line); }
   .sections { grid-template-columns: minmax(0, 1fr); }
   .archive select { padding: .45rem; }
 }
+
+.reader-tools { display:flex; flex-wrap:wrap; align-items:center; gap:.6rem 1.25rem; }
+.reader-tools a, .study-guide a { color:var(--green); text-underline-offset:.2em; }
+.reader-tools a { font-size:.88rem; }
+.study-guide { max-width:48rem; }
+.study-guide h1, .study-guide h2 { margin:1.25rem 0 .5rem; }
+.study-guide li { margin:.55rem 0; }
+.study-guide p { margin:.85rem 0; }

@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>뉴스 영어 노트</title><link rel="stylesheet" href="panel.css"><script src="panel.js" defer></script></head>
+<body><header><h1>뉴스 영어 노트</h1><nav aria-label="노트 메뉴">
+<button id="current" aria-pressed="true">현재 기사</button><button id="library" aria-pressed="false">저장한 글</button></nav></header>
+<main><p id="message" role="status" aria-live="polite"></p>
+<section id="collection" hidden><h2>저장한 글</h2><ul id="records"></ul></section>
+<section id="editor" hidden>
+<h2 id="title"></h2><a id="sourceLink" target="_blank" rel="noopener noreferrer">원문 열기 ↗</a>
+<p class="hint" id="selectionHelp">기사에서 영어 단어나 문장을 드래그하면 한국어 뜻이 표시됩니다.</p>
+<label for="draft">나의 영어 요약</label>
+<textarea id="draft" lang="en" spellcheck="true" maxlength="6000" rows="8" placeholder="기사에서 가장 중요하다고 생각한 내용을 영어로 써 보세요."></textarea>
+<div class="meta"><span id="words"></span><span id="saved" role="status"></span></div>
+<details id="reference"><summary>첨삭에 사용할 기사 본문</summary>
+<label for="excerpt" class="hint" id="excerptInfo">화면에서 읽은 본문을 확인하거나 필요한 부분을 붙여 넣으세요.</label>
+<textarea id="excerpt" lang="en" maxlength="16000" rows="5"></textarea></details>
+<button id="review" class="primary">내 요약 첨삭받기</button>
+<p class="privacy">선택 번역은 선택문과 주변 문장을, 첨삭은 입력한 본문과 요약을 Groq에 보냅니다. 글과 첨삭 기록은 이 Chrome에 저장됩니다.</p>
+<section id="history" hidden><h2>첨삭 기록</h2><label for="version" class="hint">작성본 선택</label><select id="version"></select><div id="feedback"></div></section>
+</section></main></body></html>
