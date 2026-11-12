@@ -24,9 +24,15 @@ async function readJSON(path, signal) {
   return response.json();
 }
 
+function articleUrl(rawUrl) {
+  if (typeof rawUrl !== "string" || !/^https?:\/\//i.test(rawUrl)) return undefined;
+  // BBC News uses the same article IDs on its UK and international sites.
+  return rawUrl.replace(/^https?:\/\/(?:www\.)?bbc\.co\.uk(?=\/news\/articles\/)/i, "https://www.bbc.com");
+}
+
 function Article({ item, sourceOnly }) {
   const rating = Math.min(5, Math.max(0, Number(item.importance) || 0));
-  const url = /^https?:\/\//i.test(item.url) ? item.url : undefined;
+  const url = articleUrl(item.url);
   return (
     <li>
       <a className="story" href={url} target="_blank" rel="noopener noreferrer">
