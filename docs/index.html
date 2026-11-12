@@ -1,63 +1,15 @@
-<!DOCTYPE html>
-<html lang="ko">
+<!doctype html>
+<html lang="ko" data-theme="light">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>글로벌 뉴스 다이제스트</title>
+  <link rel="stylesheet" href="assets/briefing.css" />
   <link rel="stylesheet" href="style.css" />
+  <script defer src="assets/briefing.js"></script>
 </head>
 <body>
-  <header>
-    <div class="header-inner">
-      <div class="header-title">
-        <span class="logo">📰</span>
-        <div>
-          <h1>글로벌 뉴스 다이제스트</h1>
-          <p class="header-sub">Reuters · BBC · AP · Bloomberg · Korea Herald</p>
-        </div>
-      </div>
-      <div class="header-right">
-        <div id="meta-bar" class="meta-bar">
-          <span id="generated-at"></span>
-          <span id="weekday-label"></span>
-        </div>
-        <!-- 날짜 선택기 -->
-        <div class="date-nav" id="date-nav"></div>
-      </div>
-    </div>
-  </header>
-
-  <main id="app">
-    <div id="loading-screen" class="loading-screen">
-      <div class="spinner"></div>
-      <p>뉴스를 불러오는 중입니다...</p>
-    </div>
-
-    <div id="error-screen" class="empty-screen hidden">
-      <p>📭 뉴스 데이터를 불러오지 못했습니다.</p>
-    </div>
-
-    <div id="digest-root" class="hidden">
-      <!-- 키워드 필터 -->
-      <section class="keywords-bar" id="keywords-section"></section>
-      <div id="filter-notice" class="filter-notice hidden">
-        <span id="filter-label"></span>
-        <button onclick="clearFilter()">✕ 필터 해제</button>
-      </div>
-
-      <div id="categories-grid"></div>
-
-      <section class="daily-summary-section" id="summary-section">
-        <h2>📋 오늘의 종합 요약</h2>
-        <p id="summary-text"></p>
-      </section>
-    </div>
-  </main>
-
-  <footer>
-    <p>Powered by Groq AI (Llama 3.3 70B) · 뉴스 출처: Reuters, BBC, AP, Bloomberg, Korea Herald 외</p>
-  </footer>
-
-  <script src="script.js"></script>
+  <div id="app"><p role="status">뉴스를 불러오는 중입니다…</p></div>
+  <noscript>발행된 기사를 보려면 자바스크립트를 켜 주세요.</noscript>
 </body>
 </html>

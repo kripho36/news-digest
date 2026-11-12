@@ -1,13 +1,10 @@
 @echo off
-echo 매일 오전 7시에 뉴스를 자동 수집하도록 설정합니다...
-
-schtasks /create /tn "글로벌뉴스다이제스트" ^
-  /tr "python \"C:\Users\LG\OneDrive - 서울과학고등학교\바탕 화면\CLAuDE\news-digest\run.py\"" ^
-  /sc daily ^
-  /st 07:00 ^
-  /f
-
-echo.
-echo 완료! 매일 오전 7시에 자동으로 뉴스가 업데이트됩니다.
-echo 확인: 작업 스케줄러 앱에서 "글로벌뉴스다이제스트" 항목을 찾으세요.
+setlocal
+chcp 65001 >nul
+pushd "%~dp0" || exit /b 1
+powershell.exe -NoProfile -Command "$ErrorActionPreference='Stop'; $dir=(Get-Location).Path; $python=(& python -c 'import sys; print(sys.executable)'); if ($LASTEXITCODE -ne 0 -or -not $python) { throw 'Python 실행 파일을 찾을 수 없습니다.' }; $action=New-ScheduledTaskAction -Execute $python.Trim() -Argument 'run.py' -WorkingDirectory $dir; $trigger=New-ScheduledTaskTrigger -Daily -At '07:00'; $settings=New-ScheduledTaskSettingsSet -StartWhenAvailable -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries; Register-ScheduledTask -TaskName '글로벌뉴스다이제스트' -Action $action -Trigger $trigger -Settings $settings -Force -ErrorAction Stop | Out-Null"
+set "result=%errorlevel%"
+if "%result%"=="0" echo 매일 오전 7시 뉴스 발행 작업을 설정했습니다.
+popd
 pause
+exit /b %result%

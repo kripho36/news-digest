@@ -1,4 +1,8 @@
 @echo off
-cd /d "C:\Users\LG\OneDrive - 서울과학고등학교\바탕 화면\CLAuDE\news-digest"
+setlocal
+pushd "%~dp0" || exit /b 1
 python run.py
+set "result=%errorlevel%"
+popd
 pause
+exit /b %result%
