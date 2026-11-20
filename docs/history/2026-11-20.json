@@ -1,0 +1,334 @@
+{
+  "generated_at": "2026년 11월 20일 10:45 KST",
+  "date_label": "2026-11-20",
+  "weekday": "금요일",
+  "categories": {
+    "korea": [
+      {
+        "title_ko": "카카오 창업자 주가 조작 무죄 확정, 항소법원 판결",
+        "importance": 5,
+        "summary_ko": "항소법원이 하급심 판결을 유지해 카카오 창업자의 주가 조작 혐의 무죄를 확정했다.",
+        "source": "Yonhap English",
+        "url": "https://en.yna.co.kr/view/AEN20261120003051315",
+        "published": "2026-11-20 10:42 KST",
+        "stars": "★★★★★",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "삼성전자, 사상 최고 실적 속 리더십 재배치 발표",
+        "importance": 4,
+        "summary_ko": "삼성전자는 사상 최고 실적을 기록한 가운데 조직 안정성을 위해 주요 임원 두 명을 현직에 유지하는 연례 인사 재배치를 발표했다.",
+        "source": "Korea Times",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261120/samsung-opts-for-leadership-stability-in-annual-postings-reshuffle-amid-record-earnings",
+        "published": "2026-11-20 10:42 KST",
+        "stars": "★★★★☆",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "아들 성폭행 의혹 청소년 살해 혐의 남성 검찰 송치",
+        "importance": 3,
+        "summary_ko": "서울 성북경찰서는 아들의 성폭행 의혹을 받은 10대 소녀를 즉흥적으로 살해한 혐의로 59세 남성을 검찰에 송치했다.",
+        "source": "Korea Times",
+        "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261120/man-referred-to-prosecution-on-suspicion-of-killing-teen-victim-of-sons-alleged-sex-crime",
+        "published": "2026-11-20 10:42 KST",
+        "stars": "★★★☆☆",
+        "category": "korea",
+        "category_ko": "한국"
+      },
+      {
+        "title_ko": "현대중공업, 미국 해양 행정부 대표단 방문 받아 협력 논의",
+        "importance": 2,
+        "summary_ko": "현대중공업 울산 조선소에 미국 해양행정부(MARAD) 부관리관 일행이 방문해 선박 건조·군수 물류·항만 인프라 협력을 논의했다.",
+        "source": "Korea Times",
+        "url": "https://www.koreatimes.co.kr/business/companies/20261120/hd-hyundai-heavy-hosts-us-maritime-delegation-at-ulsan-shipyard",
+        "published": "2026-11-20 10:42 KST",
+        "stars": "★★☆☆☆",
+        "category": "korea",
+        "category_ko": "한국"
+      }
+    ],
+    "us_politics": [
+      {
+        "title_ko": "미·중·러 3국 정상, 역사적 정상회담 개최",
+        "importance": 5,
+        "summary_ko": "미국, 중국, 러시아 정상들이 처음으로 삼자 정상회담을 열어 석유 공급 확대와 핵무기 협상 의지를 담은 공동 성명을 발표했다.",
+        "source": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/show/inside-the-historic-summit-between-trump-xi-and-putin",
+        "published": "2026-11-20 08:55 KST",
+        "stars": "★★★★★",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "FCC, 주 교도소에 불법 휴대전화 신호 차단 허용 결정",
+        "importance": 4,
+        "summary_ko": "연방통신위원회는 교도소 내 밀수된 휴대전화 신호를 차단할 수 있도록 주 교도소에 허가를 부여했다.",
+        "source": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/nation/fcc-votes-to-allow-state-prisons-to-jam-signals-from-contraband-cellphones",
+        "published": "2026-11-20 09:02 KST",
+        "stars": "★★★★☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "미 육군, 불안정 폭발물 폭발 연기… 독성 구름 우려",
+        "importance": 3,
+        "summary_ko": "아이오와 동부에서 불안정한 납 아자이드 폭발을 연기했으며, 주민과 의원들의 독성 구름 우려가 원인이다.",
+        "source": "BBC US",
+        "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20 10:27 KST",
+        "stars": "★★★☆☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      },
+      {
+        "title_ko": "미·멕시코·볼리비아, 홍역 퇴치 상태 상실… 백신 강화 필요",
+        "importance": 2,
+        "summary_ko": "최근 발생한 홍역 발생으로 미국, 멕시코, 볼리비아가 홍역 무역 상태를 잃었으며, 추가 예방접종이 권고된다.",
+        "source": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/health/do-you-need-a-measles-booster-shot-now-that-the-u-s-has-lost-its-elimination-status",
+        "published": "2026-11-20 09:10 KST",
+        "stars": "★★☆☆☆",
+        "category": "us_politics",
+        "category_ko": "미국 정치"
+      }
+    ],
+    "world": [
+      {
+        "title_ko": "하이티 경찰, 수도서 갱단원 34명 사살 작전 진행",
+        "importance": 5,
+        "summary_ko": "하이티 경찰은 포트오프라스 수도에서 진행한 작전에서 최소 34명의 갱단원을 사살했다고 발표했다.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
+        "published": "2026-11-20 09:31 KST",
+        "stars": "★★★★★",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "유럽, 러시아와의 우크라이나 전쟁 종식 협상 준비 선언",
+        "importance": 4,
+        "summary_ko": "베를린 정상회담에서 유럽 국가들은 러시아와의 전쟁 종식을 위한 통일된 협상 입장을 갖고 있음을 밝혔다.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20 09:50 KST",
+        "stars": "★★★★☆",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "아프리카 기후 자금 확대 요구, 유럽은 기존 약속 활용 촉구",
+        "importance": 3,
+        "summary_ko": "터키 유엔 기후 정상회의에서 아프리카 국가들은 선진국의 추가 기후 자금 지원을 요구했고, 유럽은 이미 약속된 자금을 활용하라고 제안했다.",
+        "source": "BBC World",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20 09:54 KST",
+        "stars": "★★★☆☆",
+        "category": "world",
+        "category_ko": "세계"
+      },
+      {
+        "title_ko": "말라위 연료 위기, 일상 생활 마비 초래",
+        "importance": 2,
+        "summary_ko": "연료 부족으로 말라위 전역에서 운송과 사업 활동이 마비되며 시민들의 일상이 크게 혼란을 겪고 있다.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
+        "published": "2026-11-20 10:06 KST",
+        "stars": "★★☆☆☆",
+        "category": "world",
+        "category_ko": "세계"
+      }
+    ],
+    "finance": [
+      {
+        "title_ko": "미국, 중국 기업에 엔비디아·AMD 칩 판매 승인",
+        "importance": 5,
+        "summary_ko": "미국 국방부는 일부 중국 기업에 엔비디아와 AMD 칩 판매를 승인했으며, 해당 기업이 인민해방군과 연계됐을 가능성을 제기했다.",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+        "published": "2026-11-20 09:42 KST",
+        "stars": "★★★★★",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "투자자, 스페이스X 400억 달러 위성 발사 프로젝트에 법적 보호 요구",
+        "importance": 4,
+        "summary_ko": "반도체 자금 조달 투자자들은 스페이스X가 400억 달러 규모의 위성 발사 사업을 진행하는 데 있어 담보 보호 조항을 요구하고 있다.",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
+        "published": "2026-11-20 09:15 KST",
+        "stars": "★★★★☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "에어비앤비, 신규 하우스 규칙 시행… 호스트·게스트 부담 변화",
+        "importance": 3,
+        "summary_ko": "에어비앤비는 호스트가 손님에게 요구할 수 있는 사항을 제한하는 새로운 하우스 규칙을 도입했으며, 이는 청소 업무 감소와 비용 상승을 초래할 수 있다.",
+        "source": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20 09:12 KST",
+        "stars": "★★★☆☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      },
+      {
+        "title_ko": "Anthropic, IPO 첫날 주가 17% 상승으로 시장 데뷔 성공",
+        "importance": 2,
+        "summary_ko": "AI 기업 Anthropic은 첫 거래일에 주가가 17% 상승하며 성공적인 상장을 기록했다.",
+        "source": "BBC Business",
+        "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+        "published": "2026-11-20 08:52 KST",
+        "stars": "★★☆☆☆",
+        "category": "finance",
+        "category_ko": "금융 / 경제"
+      }
+    ],
+    "tech": [
+      {
+        "title_ko": "애플, 맥용 AI 에이전트 개발 착수 가능성 제기",
+        "importance": 5,
+        "summary_ko": "애플이 메타·클로드·오픈AI 등과 경쟁할 수 있는 맥 전용 AI 에이전트를 개발 중인 것으로 알려졌다.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "published": "2026-11-20 09:56 KST",
+        "stars": "★★★★★",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "Anthropic 창업자 7인, IPO에서 총 20억 달러 현금화",
+        "importance": 4,
+        "summary_ko": "Anthropic이 주당 83달러에 상장하면서 7명의 창업자는 각각 2억 8천만 달러를 현금화했으며, 기업 가치는 약 105억 달러에 달한다.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "published": "2026-11-20 09:43 KST",
+        "stars": "★★★★☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "일론 머스크, 스페이스X가 휴대전화 사각지대 해소 기술 완성 발표",
+        "importance": 3,
+        "summary_ko": "스페이스X는 소형 옥상 셀 타워 설계를 완료했으며, 이를 통해 휴대전화 사각지대를 없앨 수 있다고 머스크가 밝혔다.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+        "published": "2026-11-20 08:37 KST",
+        "stars": "★★★☆☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      },
+      {
+        "title_ko": "Anthropic 경쟁사, 고가 모델 대신 오픈소스 모델 활용 가능성 강조",
+        "importance": 2,
+        "summary_ko": "Anthropic 상장 당일, Fireworks AI 공동창업자는 비용이 높은 모델 대신 오픈소스 모델을 활용하면 대부분의 요구를 충족할 수 있다고 주장했다.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+        "published": "2026-11-20 09:26 KST",
+        "stars": "★★☆☆☆",
+        "category": "tech",
+        "category_ko": "테크 / IT"
+      }
+    ]
+  },
+  "daily_summary": "카카오 창업자의 주가 조작 혐의가 항소법원에서 무죄로 확정돼 기업 경영진의 법적 리스크가 감소했다. 삼성전자는 사상 최고 실적을 기록하며 주요 임원 두 명을 현직에 유지하는 인사 재배치를 발표해 조직 안정을 강조했다. 현대중공업은 미국 해양행정부 대표단을 맞이해 선박·군수·항만 협력을 논의하며 해외 전략 파트너십을 확대하고 있다.",
+  "key_keywords": [
+    "카카오",
+    "삼성전자",
+    "현대중공업"
+  ],
+  "analysis_provider": "groq",
+  "analysis_status": "ai",
+  "raw_counts": {
+    "world": 24,
+    "us_politics": 24,
+    "tech": 24,
+    "finance": 24,
+    "korea": 24
+  },
+  "source_report": {
+    "BBC World": {
+      "status": "ok",
+      "articles": 26,
+      "elapsed_ms": 192
+    },
+    "Al Jazeera": {
+      "status": "ok",
+      "articles": 25,
+      "elapsed_ms": 139
+    },
+    "DW World": {
+      "status": "ok",
+      "articles": 8,
+      "elapsed_ms": 52
+    },
+    "NPR Politics": {
+      "status": "ok",
+      "articles": 9,
+      "elapsed_ms": 202
+    },
+    "BBC US": {
+      "status": "ok",
+      "articles": 17,
+      "elapsed_ms": 312
+    },
+    "PBS NewsHour": {
+      "status": "ok",
+      "articles": 20,
+      "elapsed_ms": 492
+    },
+    "BBC Tech": {
+      "status": "ok",
+      "articles": 5,
+      "elapsed_ms": 318
+    },
+    "The Verge": {
+      "status": "ok",
+      "articles": 10,
+      "elapsed_ms": 72
+    },
+    "TechCrunch": {
+      "status": "ok",
+      "articles": 19,
+      "elapsed_ms": 88
+    },
+    "Ars Technica": {
+      "status": "ok",
+      "articles": 10,
+      "elapsed_ms": 84
+    },
+    "BBC Business": {
+      "status": "ok",
+      "articles": 13,
+      "elapsed_ms": 67
+    },
+    "Financial Times": {
+      "status": "ok",
+      "articles": 10,
+      "elapsed_ms": 920
+    },
+    "The Guardian Business": {
+      "status": "ok",
+      "articles": 14,
+      "elapsed_ms": 159
+    },
+    "Yonhap English": {
+      "status": "ok",
+      "articles": 65,
+      "elapsed_ms": 114
+    },
+    "Korea Times": {
+      "status": "ok",
+      "articles": 35,
+      "elapsed_ms": 127
+    },
+    "BBC Asia": {
+      "status": "ok",
+      "articles": 4,
+      "elapsed_ms": 323
+    }
+  }
+}
